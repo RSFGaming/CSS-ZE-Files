@@ -1,0 +1,12 @@
+vertexlitgeneric
+{
+	$basetexture				"models/player/gunserver/swat_phoenix/body"
+	$envmap						env_cubemap
+	$envmaptint					"[.01 .01 .02]"
+	$normalmapalphaenvmapmask	1
+	$bumpmap					"models/player/gunserver/swat_phoenix/body_n"
+	$phong						1
+	$phongboost					.5 
+	$phongalbedoboost			5
+	$phongtint					"[.7 .8 1]"
+}

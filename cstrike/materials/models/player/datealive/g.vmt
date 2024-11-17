@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/datealive/kotori_effret/g"
+	"$lightwarptexture"		"models\player\datealive\kotori_effret\lightwarp"
+	"$nodecal"	1
+}

@@ -1,0 +1,6 @@
+vertexlitgeneric
+{
+	$basetexture	"models/player/gunserver/swat_woman/swat_woman_hair_gr"
+	$bumpmap		"models/player/gunserver/swat_woman/swat_woman_hair_gr_n"
+	$nocull			1
+}

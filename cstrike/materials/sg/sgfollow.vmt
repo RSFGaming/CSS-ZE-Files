@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+    "$basetexture" "overlays/sg/sgfollow"
+    "$translucent" "1"
+    "$ignorez" "1"
+    "$spriteorientation" "vp_parallel"
+    "$vertexalpha" "1"
+}

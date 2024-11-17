@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/player/datealive/kotori_effret/ZEDLogo"
+	"$translucent" 1
+	"$nodecal"	1
+}
